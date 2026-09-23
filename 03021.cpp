@@ -5,7 +5,7 @@ using namespace std;
 
 class Complex
 {
-	int ip,rp;
+	int ip,rp;  
 
 public:
 	Complex(int a=0,int b=0):ip(a),rp(b){}
